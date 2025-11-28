@@ -1,0 +1,12 @@
+torch==2.1.0
+deepxde==1.9.3
+stable-baselines3==2.3.0
+gymnasium==0.29.1
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+cantera
+jupyter
+scikit-learn
